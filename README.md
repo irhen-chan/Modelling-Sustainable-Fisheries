@@ -1,12 +1,9 @@
-# Modelling-Sustainable-Fisheries
-
-# Sustainable Fisheries Simulator 🌊🎣  
+# Modelling-Sustainable-Fisheries 🌊🎣  
 *FIT3139 Final Project by Snehar Singh Gujral (2025)*
 
 > An **agent-based model** coupling an **Iterated Prisoner’s Dilemma** fleet strategy with a **five-zone Markov-chain** tuna migration to explore over-fishing in Himalayan reservoirs.  
 > The work evaluates skittish-fish behaviour, spatial chokepoints and territorial vs follower fleets across 100+ Monte-Carlo runs.
 
-## Project Motivation
 Growing up fishing in Himachal Pradesh, I wondered **which management levers actually keep stocks like the Golden Mahseer alive?**  
 This project turns that question into code by:
 
