@@ -12,6 +12,8 @@ This project turns that question into code by:
 * Introducing a **skittishness parameter α** so fish flee crowded zones.  
 * Running **Monte-Carlo simulations** to quantify biomass, profit, and conflict hot-spots.
 
+Please find the in-depth analysis in the Report.
+
 Academic-Integrity Notice
 This repository contains work submitted for assessment in FIT3139 (2025) at Monash University.
 It is published for portfolio and learning purposes only.
